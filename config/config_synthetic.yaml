@@ -1,0 +1,15 @@
+batchsize: 32
+checkpoint_path: model/model_synthetic.pt
+data_path: dataset/synthetic
+dct_stride: 76
+dct_stride_percent: 0.3
+dct_width: 256
+embed_dim: 256
+embed_loss_weight: 0.1
+epochs: 2000
+fix_embedding: false
+init_embedding: true
+lr: 0.01
+patch_n: 15
+scheduler_gamma: 0.95
+scheduler_step: 2000
