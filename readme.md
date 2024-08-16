@@ -18,4 +18,5 @@ In this project, we provide the model structure, synthetic and real dataset,conf
   - `config_synthetic.yaml`: config for synthetic data
 - `main_real.ipynb`: the main file for training and testing the model on real domain data
 - `main_synthetic.ipynb`: the main file for training and testing the model on synthetic data
+- `download_data.ipynb`: the script to retrive data from online dataset
 
